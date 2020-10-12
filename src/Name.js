@@ -1,8 +1,8 @@
 const greeting = {
-    title: "Your Name",
-    logo_name: "Name",
+    title: "coder Nibba",
+    logo_name: "coder",
     subTitle:
-    "subTitle."
+    "Hello everyone."
 };
 const socialMedia = {
     facebook: "Your facebook link",
